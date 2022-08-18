@@ -1,7 +1,8 @@
 - 👋 Hi, and welcome to my GitHub repository!👋🏾
         
-I'm Indranil Bhowmik 
-A Senior Security Analyst. Also data science , machine learning and deep learning enthusiast
+## I'm Indranil Bhowmik 
+  
+  ## A Senior Security Analyst. Also data science , machine learning and deep learning enthusiast
       
 Thanks for visiting!
 
